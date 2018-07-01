@@ -778,9 +778,14 @@ L Conn_02x20_Odd_Even J1
 U 1 1 5B3484F9
 P 3250 2150
 F 0 "J1" H 3300 3150 50  0000 C CNN
-F 1 "Conn_02x20_Odd_Even" H 3300 1050 50  0000 C CNN
+F 1 "Bergstak 20P female 3.7mm" H 3300 1050 50  0000 C CNN
 F 2 "footprints:bergstak_receptacle1_2x20_female" H 3250 2150 50  0001 C CNN
-F 3 "" H 3250 2150 50  0001 C CNN
+F 3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10144517.pdf" H 3250 2150 50  0001 C CNN
+F 4 "10144517-041802LF" H 3250 2150 60  0001 C CNN "Mfg PN"
+F 5 "Amphenol" H 3250 2150 60  0001 C CNN "Mfg"
+F 6 "609-5429-1-ND" H 3250 2150 60  0001 C CNN "Digikey PN"
+F 7 "https://www.digikey.com/product-detail/en/amphenol-fci/10144517-041802LF/609-5429-1-ND/8573002" H 3250 2150 60  0001 C CNN "Digikey URL"
+F 8 "Amphenol 10144518-042802LF" H 3250 2150 60  0001 C CNN "Mating"
 	1    3250 2150
 	0    -1   1    0   
 $EndComp
@@ -791,7 +796,12 @@ P 3350 5900
 F 0 "J3" H 3400 6900 50  0000 C CNN
 F 1 "Conn_02x20_Odd_Even" V 3850 6300 50  0001 C CNN
 F 2 "footprints:bergstak_receptacle1_2x20_female" H 3350 5900 50  0001 C CNN
-F 3 "" H 3350 5900 50  0001 C CNN
+F 3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10144517.pdf" H 3350 5900 50  0001 C CNN
+F 4 "10144517-041802LF" H 3350 5900 60  0001 C CNN "Mfg PN"
+F 5 "Amphenol" H 3350 5900 60  0001 C CNN "Mfg"
+F 6 "609-5429-1-ND" H 3350 5900 60  0001 C CNN "Digikey PN"
+F 7 "https://www.digikey.com/product-detail/en/amphenol-fci/10144517-041802LF/609-5429-1-ND/8573002" H 3350 5900 60  0001 C CNN "Digikey URL"
+F 8 "Amphenol 10144518-042802LF" H 3350 5900 60  0001 C CNN "Mating"
 	1    3350 5900
 	0    1    -1   0   
 $EndComp
